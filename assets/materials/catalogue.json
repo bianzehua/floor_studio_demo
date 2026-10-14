@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pbrFloor",
+    "name": "自然木地板",
+    "kind": "wood",
+    "color": "#ffffff",
+    "price": 0,
+    "scope": "both",
+    "size": 1700,
+    "tileHeight": 1700,
+    "texture": "./assets/materials/pbrFloor-diffuse.jpg",
+    "pbr": {
+      "diffuse": "./assets/materials/pbrFloor-diffuse.jpg",
+      "normal": "./assets/materials/pbrFloor-normal.jpg",
+      "roughness": "./assets/materials/pbrFloor-roughness.jpg"
+    },
+    "sourceURL": "https://polyhaven.com/a/wood_floor",
+    "license": "CC0"
+  },
+  {
+    "id": "pbrOak",
+    "name": "真实橡木饰面",
+    "kind": "wood",
+    "color": "#ffffff",
+    "price": 0,
+    "scope": "both",
+    "size": 1830,
+    "tileHeight": 1830,
+    "texture": "./assets/materials/pbrOak-diffuse.jpg",
+    "pbr": {
+      "diffuse": "./assets/materials/pbrOak-diffuse.jpg",
+      "normal": "./assets/materials/pbrOak-normal.jpg",
+      "roughness": "./assets/materials/pbrOak-roughness.jpg"
+    },
+    "sourceURL": "https://polyhaven.com/a/oak_veneer_01",
+    "license": "CC0"
+  },
+  {
+    "id": "pbrMarble",
+    "name": "白色大理石",
+    "kind": "marble",
+    "color": "#ffffff",
+    "price": 0,
+    "scope": "both",
+    "size": 1500,
+    "tileHeight": 1500,
+    "texture": "./assets/materials/pbrMarble-diffuse.jpg",
+    "pbr": {
+      "diffuse": "./assets/materials/pbrMarble-diffuse.jpg",
+      "normal": "./assets/materials/pbrMarble-normal.jpg",
+      "roughness": "./assets/materials/pbrMarble-roughness.jpg"
+    },
+    "sourceURL": "https://polyhaven.com/a/marble_01",
+    "license": "CC0"
+  },
+  {
+    "id": "pbrPlaster",
+    "name": "细纹涂料",
+    "kind": "paint",
+    "color": "#ffffff",
+    "price": 0,
+    "scope": "both",
+    "size": 2000,
+    "tileHeight": 2000,
+    "texture": "./assets/materials/pbrPlaster-diffuse.jpg",
+    "pbr": {
+      "diffuse": "./assets/materials/pbrPlaster-diffuse.jpg",
+      "normal": "./assets/materials/pbrPlaster-normal.jpg",
+      "roughness": "./assets/materials/pbrPlaster-roughness.jpg"
+    },
+    "sourceURL": "https://polyhaven.com/a/painted_plaster_wall",
+    "license": "CC0"
+  }
+]
